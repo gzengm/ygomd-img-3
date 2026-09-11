@@ -1,0 +1,160 @@
+
+ForUnity.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackBody
+  rotate: false
+  xy: 692, 1449
+  size: 381, 424
+  orig: 381, 424
+  offset: 0, 0
+  index: -1
+BackScarf
+  rotate: true
+  xy: 3905, 3320
+  size: 213, 144
+  orig: 213, 144
+  offset: 0, 0
+  index: -1
+Bangs
+  rotate: true
+  xy: 1749, 616
+  size: 408, 307
+  orig: 408, 307
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 1075, 1026
+  size: 857, 1063
+  orig: 857, 1063
+  offset: 0, 0
+  index: -1
+Eye_1
+  rotate: false
+  xy: 3905, 3999
+  size: 181, 95
+  orig: 181, 95
+  offset: 0, 0
+  index: -1
+Eye_1.5
+  rotate: false
+  xy: 3905, 3805
+  size: 181, 95
+  orig: 181, 95
+  offset: 0, 0
+  index: -1
+Eye_2
+  rotate: false
+  xy: 3905, 3902
+  size: 181, 95
+  orig: 181, 95
+  offset: 0, 0
+  index: -1
+FrontScarf
+  rotate: true
+  xy: 2, 1361
+  size: 512, 277
+  orig: 512, 277
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1749, 263
+  size: 351, 322
+  orig: 351, 322
+  offset: 0, 0
+  index: -1
+Lance
+  rotate: false
+  xy: 2, 1885
+  size: 2309, 2209
+  orig: 2309, 2209
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 3602, 1302
+  size: 448, 1042
+  orig: 448, 1042
+  offset: 0, 0
+  index: -1
+LeftEndtScarf
+  rotate: true
+  xy: 2313, 1875
+  size: 1032, 1287
+  orig: 1032, 1287
+  offset: 0, 0
+  index: -1
+LeftFinger
+  rotate: false
+  xy: 3884, 2783
+  size: 104, 228
+  orig: 104, 228
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 2313, 3426
+  size: 668, 1590
+  orig: 668, 1590
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 789, 211
+  size: 374, 813
+  orig: 374, 813
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 3602, 2346
+  size: 492, 435
+  orig: 492, 435
+  offset: 0, 0
+  index: -1
+RightEndtScarf
+  rotate: false
+  xy: 1165, 235
+  size: 582, 789
+  orig: 582, 789
+  offset: 0, 0
+  index: -1
+RightFinger
+  rotate: false
+  xy: 3905, 3535
+  size: 174, 268
+  orig: 174, 268
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 281, 1442
+  size: 431, 409
+  orig: 431, 409
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 2, 199
+  size: 785, 1101
+  orig: 785, 1101
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 2313, 2909
+  size: 515, 1569
+  orig: 515, 1569
+  offset: 0, 0
+  index: -1
+TopHair
+  rotate: true
+  xy: 3884, 3013
+  size: 305, 194
+  orig: 305, 194
+  offset: 0, 0
+  index: -1

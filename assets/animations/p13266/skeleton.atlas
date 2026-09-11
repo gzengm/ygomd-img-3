@@ -1,0 +1,103 @@
+
+ForUnity.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftLeg02
+  rotate: true
+  xy: 2, 451
+  size: 567, 797
+  orig: 567, 797
+  offset: 0, 0
+  index: -1
+LeftLeg03
+  rotate: true
+  xy: 2, 1020
+  size: 408, 902
+  orig: 408, 902
+  offset: 0, 0
+  index: -1
+LeftWing01
+  rotate: false
+  xy: 2, 1520
+  size: 583, 320
+  orig: 583, 320
+  offset: 0, 0
+  index: -1
+LeftWing02
+  rotate: true
+  xy: 815, 1744
+  size: 281, 425
+  orig: 281, 425
+  offset: 0, 0
+  index: -1
+Propeller
+  rotate: false
+  xy: 1591, 1358
+  size: 434, 384
+  orig: 434, 384
+  offset: 0, 0
+  index: -1
+RightLeg02
+  rotate: true
+  xy: 587, 1430
+  size: 312, 1002
+  orig: 312, 1002
+  offset: 0, 0
+  index: -1
+RightLeg03
+  rotate: true
+  xy: 906, 920
+  size: 436, 1060
+  orig: 436, 1060
+  offset: 0, 0
+  index: -1
+RightWing01
+  rotate: false
+  xy: 2, 1842
+  size: 811, 183
+  orig: 811, 183
+  offset: 0, 0
+  index: -1
+RightWing02
+  rotate: false
+  xy: 1242, 1744
+  size: 601, 281
+  orig: 601, 281
+  offset: 0, 0
+  index: -1
+Wheel
+  rotate: false
+  xy: 801, 211
+  size: 725, 707
+  orig: 725, 707
+  offset: 0, 0
+  index: -1
+
+ForUnity2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 778
+  size: 1031, 995
+  orig: 1031, 995
+  offset: 0, 0
+  index: -1
+LeftLeg01
+  rotate: true
+  xy: 2, 2
+  size: 774, 1170
+  orig: 774, 1170
+  offset: 0, 0
+  index: -1
+RightLeg01
+  rotate: false
+  xy: 1174, 398
+  size: 505, 1375
+  orig: 505, 1375
+  offset: 0, 0
+  index: -1

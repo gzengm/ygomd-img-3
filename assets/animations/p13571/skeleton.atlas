@@ -1,0 +1,102 @@
+
+_noait_.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2315, 2869
+  size: 897, 1451
+  orig: 897, 1451
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 2, 3661
+  size: 126, 105
+  orig: 126, 105
+  offset: 0, 0
+  index: -1
+HairBack1
+  rotate: false
+  xy: 948, 2871
+  size: 1365, 895
+  orig: 1365, 895
+  offset: 0, 0
+  index: -1
+HairBack2
+  rotate: false
+  xy: 2, 1836
+  size: 1434, 1033
+  orig: 1434, 1033
+  offset: 0, 0
+  index: -1
+HairTail
+  rotate: false
+  xy: 130, 3531
+  size: 510, 235
+  orig: 510, 235
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 642, 3473
+  size: 304, 293
+  orig: 304, 293
+  offset: 0, 0
+  index: -1
+Munt
+  rotate: false
+  xy: 1438, 1358
+  size: 1828, 1509
+  orig: 1828, 1509
+  offset: 0, 0
+  index: -1
+
+_noait_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Star/LeftStar
+  rotate: true
+  xy: 1524, 671
+  size: 764, 1236
+  orig: 764, 1236
+  offset: 0, 0
+  index: -1
+Star/LeftStarLight
+  rotate: false
+  xy: 1660, 2374
+  size: 899, 898
+  orig: 899, 898
+  offset: 0, 0
+  index: -1
+Star/RightStar
+  rotate: false
+  xy: 2, 1437
+  size: 1656, 1835
+  orig: 1656, 1835
+  offset: 0, 0
+  index: -1
+Star/RightStarLight
+  rotate: true
+  xy: 2, 2
+  size: 1433, 1520
+  orig: 1433, 1520
+  offset: 0, 0
+  index: -1
+
+_noait_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wing/Wing
+  rotate: false
+  xy: 2, 2
+  size: 1881, 1945
+  orig: 1881, 1945
+  offset: 0, 0
+  index: -1
