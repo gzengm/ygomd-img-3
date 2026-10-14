@@ -1,0 +1,12 @@
+P22083.png
+size:4096,2048
+filter:Linear,Linear
+pma:true
+scale:0.6
+Body
+bounds:2,2,2463,1994
+offsets:5,7,2475,2001
+Eff_Tama
+bounds:2467,281,1715,1097
+offsets:13,13,1741,1123
+rotate:90
