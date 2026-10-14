@@ -1,0 +1,159 @@
+
+_noait_.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BabyArm
+  rotate: false
+  xy: 1323, 88
+  size: 405, 515
+  orig: 405, 515
+  offset: 0, 0
+  index: -1
+BabyBody
+  rotate: false
+  xy: 1029, 1753
+  size: 443, 321
+  orig: 443, 321
+  offset: 0, 0
+  index: -1
+BabyHead
+  rotate: false
+  xy: 1474, 1731
+  size: 386, 343
+  orig: 386, 343
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 134
+  size: 807, 1502
+  orig: 807, 1502
+  offset: 0, 0
+  index: -1
+BodyParts
+  rotate: false
+  xy: 2, 72
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1730, 163
+  size: 346, 440
+  orig: 346, 440
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 811, 605
+  size: 918, 1031
+  orig: 918, 1031
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 2, 1638
+  size: 1025, 2338
+  orig: 1025, 2338
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1731, 1024
+  size: 280, 356
+  orig: 280, 356
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 1731, 1382
+  size: 295, 347
+  orig: 295, 347
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 1029, 2076
+  size: 1097, 1900
+  orig: 1097, 1900
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 811, 2
+  size: 510, 601
+  orig: 510, 601
+  offset: 0, 0
+  index: -1
+
+_noait_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire/BabyBodyFire
+  rotate: false
+  xy: 367, 2
+  size: 197, 243
+  orig: 197, 243
+  offset: 0, 0
+  index: -1
+Fire/BabyHeadFire
+  rotate: false
+  xy: 367, 247
+  size: 381, 411
+  orig: 381, 411
+  offset: 0, 0
+  index: -1
+Fire/BodyFire
+  rotate: false
+  xy: 367, 660
+  size: 569, 674
+  orig: 569, 674
+  offset: 0, 0
+  index: -1
+Fire/HeadFire
+  rotate: false
+  xy: 2, 1336
+  size: 630, 687
+  orig: 630, 687
+  offset: 0, 0
+  index: -1
+Fire/RightArmFire
+  rotate: false
+  xy: 750, 152
+  size: 298, 506
+  orig: 298, 506
+  offset: 0, 0
+  index: -1
+Fire/RightHandFire
+  rotate: false
+  xy: 938, 1015
+  size: 312, 409
+  orig: 312, 409
+  offset: 0, 0
+  index: -1
+Fire/RightShoulderFire
+  rotate: false
+  xy: 634, 1426
+  size: 359, 597
+  orig: 359, 597
+  offset: 0, 0
+  index: -1
+Fire/RightThighFire01
+  rotate: false
+  xy: 938, 725
+  size: 246, 288
+  orig: 246, 288
+  offset: 0, 0
+  index: -1
+Fire/RightThighFire02
+  rotate: false
+  xy: 2, 146
+  size: 363, 1188
+  orig: 363, 1188
+  offset: 0, 0
+  index: -1
